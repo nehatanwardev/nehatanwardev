@@ -3,9 +3,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Dart, Flutter, Rest Apis, Xcode, Firebase, Git, CI/CD**
+- 💬 Ask me about **Dart, Flutter, Rest Apis, Xcode, Firebase, Git, CI/CD, Kotlin,BLOC,Getx**
 
-- 📫 How to reach me **nehatanwar.dev@gmail.com**
+-  📫 My Old account  **(https://github.com/nehatanwar2698)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
